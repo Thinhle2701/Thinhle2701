@@ -6,7 +6,7 @@
 ### <div align="center">I'm Lê Thịnh, a back-end developer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I’m studying at Information Technology University in Vietnam  
+- 🔭 I’m studying Information System Major at Information Technology University in Vietnam  
   
 
 - 🌱 I’m currently trying improve my backend skills  
