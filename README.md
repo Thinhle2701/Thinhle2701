@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lê Thịnh, a back-end or full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Lê Thịnh, a back-end developer 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🔭 I’m studying at Information Technology University in Vietnam  
@@ -87,13 +87,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thinhle2701&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
