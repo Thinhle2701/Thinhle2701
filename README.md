@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lê Thịnh, a back-end or full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Lê Thịnh, a back-end or full-stack developer 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🔭 I’m currently studying at Information Technology University in Vietnam  
